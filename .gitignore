@@ -1,0 +1,23 @@
+[Oo]bj/
+[Bb]in/
+.nuget/
+_ReSharper.*
+packages/
+artifacts/
+*.user
+*.suo
+*.userprefs
+*DS_Store
+*.sln.ide
+
+### VIM ###
+# swap
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
+# auto-generated tag files
+tags
